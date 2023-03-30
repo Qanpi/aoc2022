@@ -2,6 +2,9 @@
 
 Learning Clojure through solving puzzles from Advent Of Code 2022. At the beginning of this journey, I was generally familiar with algorithmic problem-solving, but implementing it via functional programming is an intriguing twist.
 
+## Current progress
+![image](https://user-images.githubusercontent.com/61239034/228909273-6935b59e-518b-40d1-bdd5-dacd65534cd3.png)
+
 ## License
 
 Copyright © 2023 FIXME
