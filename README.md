@@ -1,6 +1,6 @@
 # aoc2022
 
-Learning Clojure through solving puzzles from Advent Of Code 2022. At the beginning of this journey, I was generally familiar with algorithmic problem-solving, but implementing it via functional programming was an intriguing twist.
+Learning Clojure through solving puzzles from Advent Of Code 2022. At the beginning of this journey, I was generally familiar with algorithmic problem-solving, but implementing it via functional programming is an intriguing twist.
 
 ## License
 
