@@ -1,10 +1,6 @@
 # aoc2022
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
+Learning Clojure through solving puzzles from Advent Of Code 2022. At the beginning of this journey, I was generally familiar with algorithmic problem-solving, but implementing it via functional programming was an intriguing twist.
 
 ## License
 
